@@ -18,7 +18,7 @@
         <spigot.version>1.17-R0.1-SNAPSHOT</spigot.version>
         <gui.version>v1.3</gui.version>
         <mongo.version>3.12.12</mongo.version>
-        <lombok.version>1.18.26</lombok.version>
+        <lombok.version>1.18.28</lombok.version>
         <skullcreator.version>3.0.1</skullcreator.version>
     </properties>
 
